@@ -124,4 +124,8 @@ public class VarastoTest {
       varasto.lisaaVarastoon(5);
       assertEquals("saldo = " + 5.0 + ", vielä tilaa " + 5.0, varasto.toString());
     }
+
+    @Test
+    public void tyhjaTestiJottaGitHubHajoaa() {
+    }
 }
