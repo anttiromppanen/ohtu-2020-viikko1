@@ -128,4 +128,8 @@ public class VarastoTest {
     @Test
     public void tyhjaTestiJottaGitHubHajoaa() {
     }
+
+    @Test
+    public void tyhjaTestiCodecov() {
+    }
 }
