@@ -81,26 +81,5 @@ public class Main {
         mehuvarasto(mehua, olutta);
         olutvarastoKaksi(mehua, olutta);
         mehuvarastoKaksi(mehua, olutta);
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
     }
 }
